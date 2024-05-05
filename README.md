@@ -29,7 +29,6 @@ We use [discord](https://discord.gg/tpp8ckjrPn) for lively, instant communicatio
 - [CSS in Real Life](https://css-irl.info/) - about CSS, which is considered the most beautiful language in the web by the writer.
 - [Raul Jordan's Blog](https://rauljordan.com/) - personal blog of Jordan, one of the maintainers of the Ethereum blockchain protocol, love writing Go and Rust.
 - [Jason Eckert's Blog](https://jasoneckert.github.io/) - personal blog of Eckert, a grandfater who loves programming.
-- 
 
 ### design
 
