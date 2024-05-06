@@ -4,6 +4,12 @@
 
 We use [discord](https://discord.gg/tpp8ckjrPn) for lively, instant communication with fellow bloggers and blog enthusiasts.
 
+**Contributing:**
+
+Please take a quick gander at the [contribution guidelines](https://github.com/Firevvork/1000-awesome-blogs/tree/main/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/Firevvork/1000-awesome-blogs/graphs/contributors); you rock!
+
+> _If you see a blog here that is no longer updated or is not a good fit, please submit a pull request to improve this file. Thank you!_
+
 ## Contents
 
 ### startup
