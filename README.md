@@ -23,6 +23,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/F
 - [Zero To Marketing](https://www.zerotomarketing.com/newsletter) - learn marketing from case studies.
 - [Andrew Chen's Blog](https://andrewchen.com/recent/) - personal blog of Andrew Chen, GP at A16Z, former head of growth at Uber.
 - [Vitalik Buterin's Blog](https://vitalik.eth.limo/) - personal blog of Vitalik Buterin, the founder of Ethereum.
+- [Jonh Egan's Blog](https://jwegan.com/) - personal blog of Jonh Egan, the growth lead at Character\.AI, former head of growth at Pinterest.
 
 ### programming
 *Blogs about all aspects of programming: languages, frameworks, tools, best practices, career advice...*
